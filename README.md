@@ -30,6 +30,6 @@
 
 ### Some HTML code I'm proud of:
 
-- using <div> as Figma
+- using '<div>' as Figma
 - css background linear gradient
 - nth-child(n) and nth-(of)-type(n)
